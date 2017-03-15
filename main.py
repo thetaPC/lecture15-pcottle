@@ -17,7 +17,7 @@ def getPepperoni():
 
 def getIngredients():
     return [
-        getMushrooms(),
+        getMushroom(),
         getPepperoni(),
         getCheese(),
         getSauce()
